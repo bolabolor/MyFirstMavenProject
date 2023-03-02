@@ -16,7 +16,7 @@ class SmallerThanZeroTest {
     @Test
     void WhenGiven0ReturnFalse(){
         // GIVEN
-        int i = 1;
+        int i = 0;
         // WHEN
         Boolean result = SmallerThanZero.SmallerThanZero(i);
         // THEN
