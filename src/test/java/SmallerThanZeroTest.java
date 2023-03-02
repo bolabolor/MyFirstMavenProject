@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class SmallerThanZeroTest {
     @Test
-    void WhenGivenAnumberBiggerThanZero(){
+    void WhenGivenANumberBiggerThanZero(){
         // GIVEN
         int i = 1;
         // WHEN
